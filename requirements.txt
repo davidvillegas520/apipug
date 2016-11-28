@@ -1,0 +1,9 @@
+#
+####### APIPlug Python /Django API requirements.txt #######
+#
+###### Requirements ######
+Django >= 1.9
+mysqlclient
+djangorestframework
+django-rest-swagger
+#
